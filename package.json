@@ -1,0 +1,23 @@
+{
+    "name": "desafio_black_and_white",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^4.5.3",
+        "jimp": "^0.16.1",
+        "jquery": "^3.5.1",
+        "nodemon": "^2.0.6",
+        "popper": "^1.0.1",
+        "popper.js": "^1.16.1",
+        "yargs": "^16.2.0"
+    },
+    "devDependencies": {},
+    "description": ""
+}
